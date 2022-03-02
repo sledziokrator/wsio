@@ -1,4 +1,4 @@
-from sandbox.wsio.flagi_funkcja import tekscior
+from sandbox.wsio.old.flagi_funkcja import tekscior
 counterpl=0
 countercom=0
 tekstczysty=tekscior('https://zajecia-programowania-xd.pl/flagi')
