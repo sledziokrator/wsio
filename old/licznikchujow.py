@@ -7,7 +7,7 @@ for i in range(ile):
  print ("chuj "+str(i+1))
  t1=time.time()
 print('i juz nie chuj. Przeliczylem wszystkie te chuje w ' + str(round(t1-t0, 2)) + ' sekund')
-if input('Czyscic?: ').upper()=='T':
+if input('Czyscic? (t/n): ').upper()=='T':
  os.system('clear')
 else:
  print('no ok')
